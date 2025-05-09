@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samuele</h1>
-<h3 align="center">I'm a computer science student at university UNIGE (Università degli studi di Genova) and I'm attracted to everything related to the web, automation and ML.</h3>
+<h3 align="center">
+  🎓 Computer Science graduate specialized in Artificial Intelligence  </br>
+  🧪 Research Fellow at the University of Genoa — working on quantum kernel methods for data-driven feature engineering in low-data scenarios  </br>
+  🧠 Freelance Machine Learning Engineer and Full-Stack Developer  </br>
+  🌱 Contributor to biodiversity data analysis and mobile/web app development  </br>
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
