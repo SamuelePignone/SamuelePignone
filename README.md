@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuele</h1>
-<h3 align="center">
+<h1 align="left">Hi 👋, I'm Samuele</h1>
+<h3 align="left">
   🎓 Computer Science graduate specialized in Artificial Intelligence  </br>
   🧪 Research Fellow at the University of Genoa — working on quantum kernel methods for data-driven feature engineering in low-data scenarios  </br>
   🧠 Freelance Machine Learning Engineer and Full-Stack Developer  </br>
