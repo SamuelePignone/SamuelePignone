@@ -27,3 +27,10 @@
 <summary>Click for GitHub Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelepignone&show_icons=true&theme=tokyonight&locale=en" alt="samuelepignone" /></p>
 </details>
+
+<p align="left">
+    <a href="https://github.com/SamuelePignone?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/SamuelePignone" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/SamuelePignone/SamuelePignone?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/SamuelePignone" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/SamuelePignone/SamuelePignone?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/SamuelePignone/SamuelePignone" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/SamuelePignone/SamuelePignone?label=profile%20updated&style=flat-square"></a>
+</p>
